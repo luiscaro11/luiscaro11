@@ -33,9 +33,3 @@ I'm a passionate full stack and blockchain developer with expertise in creating 
 - Docker, Kubernetes
 - CI/CD pipelines (GitHub Actions, Jenkins)
 - AWS, GCP, Azure
-
-## 🚀 My Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/luiscaro11)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/luiscaro11)
